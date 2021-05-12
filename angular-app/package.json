@@ -44,7 +44,7 @@
     "@nguniversal/module-map-ngfactory-loader": "^6.0.0",
     "angular-in-memory-web-api": "^0.6.0",
     "angular-weather-widget": "https://github.com/alexmirea/angular-weather-widget.git#angular6",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.4",
     "node-fetch": "^2.2.0",
     "request": "^2.87.0",
